@@ -1,0 +1,12 @@
+transformers>=4.43.0
+datasets>=2.20.0
+torch>=2.1.0
+accelerate>=0.29.0
+sentencepiece
+protobuf
+
+#transformers
+#langgraph
+#torch
+#datasets
+#evaluate
